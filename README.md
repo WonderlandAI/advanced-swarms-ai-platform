@@ -1,3 +1,5 @@
+![CINEAI Logo](logo.png)
+
 # Advanced Swarm AI Platform
 
 An innovative platform that transforms complex multi-agent interactions into an engaging, user-centric experience of intelligent behavior modeling. Watch AI-driven agents collaborate, learn, and adapt in real-time while collecting resources and optimizing their collective behavior.
